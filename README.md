@@ -9,6 +9,8 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 ## Adquisición de datos de dos sensores por protocolo de comunicación SPI proveniente de un sensor de temperatura y protocolo de comunicación HART proveniente de un transmisor de presión Rosemount 🚀
 
+![BANCO DE PRUEBAS HIDROSTATICAS](https://user-images.githubusercontent.com/22797982/90323407-96349080-df26-11ea-96e5-f97a27f3d875.png)
+
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
