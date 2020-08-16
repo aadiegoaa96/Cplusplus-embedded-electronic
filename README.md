@@ -18,10 +18,10 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
-_Arduino IDE_
-_C# LANGUAGE_
-_VISUAL STUDIO .NET FRAMEWORK_
-_ZEDGRAPH LIBRARY_
+_Arduino IDE
+_C# LANGUAGE
+_VISUAL STUDIO .NET FRAMEWORK
+_ZEDGRAPH LIBRARY
 
 ### Instalación 🔧
 _ARDUINO IDE:_
