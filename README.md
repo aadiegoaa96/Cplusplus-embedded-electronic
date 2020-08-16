@@ -11,7 +11,13 @@ _Acá va un párrafo que describa lo que es el proyecto_
 
 ![BANCO DE PRUEBAS HIDROSTATICAS](https://user-images.githubusercontent.com/22797982/90323407-96349080-df26-11ea-96e5-f97a27f3d875.png)
 
+
+
 ![pruebahidrostatica](https://user-images.githubusercontent.com/22797982/90323581-b06f6e00-df28-11ea-9550-0cf8cd0b5d7c.jpg)
+
+
+
+![proteusPCB](https://user-images.githubusercontent.com/22797982/90323834-435dd780-df2c-11ea-8e95-d6c941814c7a.png)
 
 
 Mira **Deployment** para conocer como desplegar el proyecto.
