@@ -18,11 +18,19 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
-
+_Arduino IDE_
+_C# LANGUAGE_
+_VISUAL STUDIO .NET FRAMEWORK_
+_ZEDGRAPH LIBRARY_
 
 ### Instalación 🔧
-
+_ARDUINO IDE:_
+https://www.arduino.cc/en/main/OldSoftwareReleases 
 ## Ejecutando las pruebas ⚙️
+
+_ARDUINO UNO_
+_POTENCIOMETER_
+_3 CABLES_ 
 ### Analice las pruebas end-to-end 🔩
 ### Y las pruebas de estilo de codificación ⌨️
 ## Despliegue 📦
