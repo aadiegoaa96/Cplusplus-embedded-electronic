@@ -7,15 +7,14 @@ Projects creating for solve Industrial problems, PID algorithms, AI, and WebServ
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
-## HARDWARE PARA SISTEMA SCADA 🚀
+## 1. HARDWARE PARA SISTEMA SCADA 🚀
 
 
 * EMBEDDED SYSTEM VALVE TESTER
 
 ![BANCO DE PRUEBAS HIDROSTATICAS](https://user-images.githubusercontent.com/22797982/90323407-96349080-df26-11ea-96e5-f97a27f3d875.png)
 
-* SOFTWARE IN C# .NET FOR DATA-ADQUISITION
-
+* DATA ADQUISITION IN C++ SOFTWARE AND C# CONNECTION
 ![pruebahidrostatica](https://user-images.githubusercontent.com/22797982/90323581-b06f6e00-df28-11ea-9550-0cf8cd0b5d7c.jpg)
 
 
