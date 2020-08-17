@@ -40,10 +40,26 @@ https://www.arduino.cc/en/main/OldSoftwareReleases
 * ARDUINO UNO
 * POTENCIOMETER
 * 3 CABLES
+
+
+## 1. HARDWARE FOR SACADA SYSTEM 🚀
+
+
+![AutonomousCar](https://user-images.githubusercontent.com/22797982/90448933-facd2800-e0ab-11ea-93e2-3ee3a80c74af.jpeg)
+
+https://github.com/aadiegoaa96/C-Plus-Plus-Arduino/issues/3#issue-680553744
+
+
+
+
+
 ### Analice las pruebas end-to-end 🔩
 ### Y las pruebas de estilo de codificación ⌨️
 ## Despliegue 📦
 ## Construido con 🛠️
+
+
+
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
 
