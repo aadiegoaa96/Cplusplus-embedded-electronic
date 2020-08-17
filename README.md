@@ -7,7 +7,7 @@ Projects creating for solve Industrial problems, PID algorithms, AI, and WebServ
 
 _Acá va un párrafo que describa lo que es el proyecto_
 
-## 1. HARDWARE PARA SISTEMA SCADA 🚀
+## 1. HARDWARE FOR SACADA SYSTEM 🚀
 
 
 * EMBEDDED SYSTEM VALVE TESTER
