@@ -11,6 +11,7 @@ Projects creating for solve Industrial problems, PID algorithms, AI, and WebServ
 * EMBEDDED SYSTEM VALVE TESTER
 
 
+![IMG-20200102-WA0059](https://user-images.githubusercontent.com/22797982/90450730-f99dfa00-e0af-11ea-91f2-ad4312175955.jpeg)
 
 
 ![BANCO DE PRUEBAS HIDROSTATICAS](https://user-images.githubusercontent.com/22797982/90323407-96349080-df26-11ea-96e5-f97a27f3d875.png)
