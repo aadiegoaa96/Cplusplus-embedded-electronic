@@ -97,6 +97,27 @@ _ARDUINO IDE:_
 
 
 
+## 4. PROPORTIONAL INTEGRAL DERIVATIVE (PID) CONTROLLER WRITTEN IN C ++  🚀
+
+
+
+
+
+
+![SETEANDO Y LLEGANDO A TEMPERATURA CON CONTROL ONOFF AC VIDEO 3](https://user-images.githubusercontent.com/22797982/90480347-b8c8d400-e0f5-11ea-955a-081dbbb4d977.gif)
+
+
+
+
+
+* ARDUINO UNO
+* LCD DISPLAY 20X4
+* ZERO CROSSING CIRCUIT
+* LM-35, TERMISTOR OR SIMPLE TEMPERATURE SENSOR
+* AC-LIGHT
+
+
+
 ### Analice las pruebas end-to-end 🔩
 ### Y las pruebas de estilo de codificación ⌨️
 ## Despliegue 📦
