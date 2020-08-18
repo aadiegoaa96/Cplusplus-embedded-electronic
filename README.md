@@ -56,10 +56,25 @@ https://www.arduino.cc/en/main/OldSoftwareReleases
 * 3 CABLES
 
 
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [MAX6675Library](https://github.com/adafruit/MAX6675-library
+
 ## 2. AUTONOMOUS CAR WITH C++, BLUETOOTH, ULTRASONIC SENSOR 🚀
 
 
 ![AutonomousCar](https://user-images.githubusercontent.com/22797982/90448933-facd2800-e0ab-11ea-93e2-3ee3a80c74af.jpeg)
+
+
+
+* ARDUINO UNO
+* 2 ULTRASONIC SENSOR
+* 1 SERVOMOTOR
+* 1 BLUETOOTH MODULE
+* 9V BATTERY
+* 2 DC MOTOR
+* 1 MODULE H BRIDGE
 
 
 ### Analice las pruebas end-to-end 🔩
@@ -67,14 +82,6 @@ https://www.arduino.cc/en/main/OldSoftwareReleases
 ## Despliegue 📦
 ## Construido con 🛠️
 
-
-
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
-* [MAX6675Library](https://github.com/adafruit/MAX6675-library)
-* 
-* 
 
 ## Autores ✒️
 
