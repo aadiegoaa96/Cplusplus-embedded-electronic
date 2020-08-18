@@ -38,8 +38,6 @@ Projects creating for solve Industrial problems, PID algorithms, AI, and WebServ
 ![proteusPCB](https://user-images.githubusercontent.com/22797982/90323834-435dd780-df2c-11ea-8e95-d6c941814c7a.png)
 
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
 
 ### Pre-requisitos 📋
 * Arduino IDE
