@@ -74,6 +74,29 @@ _ARDUINO IDE:_
 * 1 MODULE H BRIDGE
 
 
+
+## 2. AUTONOMOUS CAR WITH C++, BLUETOOTH, ULTRASONIC SENSOR 🚀
+
+
+
+
+
+![SNAKE DUINO 2 (2)](https://user-images.githubusercontent.com/22797982/90479484-5fac7080-e0f4-11ea-81b7-b036ba64665d.gif)
+
+
+
+
+
+* ARDUINO UNO
+* LCD DISPLAY 20X4
+* POTENCIOMETER 1 K OHM
+* USB CABLE
+* 9V BATTERY
+
+
+
+
+
 ### Analice las pruebas end-to-end 🔩
 ### Y las pruebas de estilo de codificación ⌨️
 ## Despliegue 📦
