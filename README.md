@@ -49,19 +49,12 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 * C# LANGUAGE
 * VISUAL STUDIO .NET FRAMEWORK
 * ZEDGRAPH LIBRARY
+* PROTEUS PCB DESIGN AND SIMULATOR
 
 ### Instalación 🔧
 _ARDUINO IDE:_
-https://www.arduino.cc/en/main/OldSoftwareReleases 
-## Ejecutando las pruebas ⚙️
 
-* ARDUINO UNO
-* POTENCIOMETER
-* 3 CABLES
-
-
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+* [ARDUINO IDE]https://www.arduino.cc/en/main/OldSoftwareReleases 
 
 * [MAX6675Library](https://github.com/adafruit/MAX6675-library
 
