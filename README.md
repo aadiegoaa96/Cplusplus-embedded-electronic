@@ -33,6 +33,10 @@ Projects creating for solve Industrial problems, PID algorithms, AI, and WebServ
 
 
 
+![PCB ROTANDO EXHIBIENDO](https://user-images.githubusercontent.com/22797982/90477034-4275a300-e0f0-11ea-8bd1-be0a8de09452.gif)
+
+
+
 
 ![proteusPCB](https://user-images.githubusercontent.com/22797982/90323834-435dd780-df2c-11ea-8e95-d6c941814c7a.png)
 
